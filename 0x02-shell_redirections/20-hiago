@@ -1,2 +1,2 @@
-#!/biin/bash
-tr -d "cC"
+#!/bin/bash
+rt -d "cC"
